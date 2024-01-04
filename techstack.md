@@ -1,26 +1,30 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 drunkensouljah/xbox_backward_compatibility is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 drunkensouljah/xbox_backward_compatibility is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [drunkensouljah/xbox_backward_compatibility](https://github.com/drunkensouljah/xbox_backward_compatibility)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|11/09/23 <br/>Report generated|
+|5<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -65,10 +69,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[cssselect](https://pypi.org/cssselect)|v0.9.1|03/19/17|Daniel Blatt |BSD-3-Clause|N/A|
-|[lxml](https://pypi.org/lxml)|v3.4.4|03/19/17|Daniel Blatt |BSD-3-Clause|[CVE-2021-43818](https://github.com/advisories/GHSA-55x5-fj6c-h6m8) (High)<br/>[CVE-2020-27783](https://github.com/advisories/GHSA-pgww-xf46-h92r) (Moderate)<br/>[CVE-2022-2309](https://github.com/advisories/GHSA-wrxv-2j5q-m38w) (Moderate)<br/>[CVE-2018-19787](https://github.com/advisories/GHSA-xp26-p53h-6h2p) (Moderate)<br/>[CVE-2021-28957](https://github.com/advisories/GHSA-jq4v-f5q6-mjqq) (Moderate)|
+|[cssselect](https://pypi.org/project/cssselect)|v0.9.1|03/19/17|Daniel Blatt |BSD-3-Clause|N/A|
+|[lxml](https://pypi.org/project/lxml)|v3.4.4|03/19/17|Daniel Blatt |BSD-3-Clause|[CVE-2021-43818](https://github.com/advisories/GHSA-55x5-fj6c-h6m8) (High)<br/>[CVE-2020-27783](https://github.com/advisories/GHSA-pgww-xf46-h92r) (Moderate)<br/>[CVE-2022-2309](https://github.com/advisories/GHSA-wrxv-2j5q-m38w) (Moderate)<br/>[CVE-2018-19787](https://github.com/advisories/GHSA-xp26-p53h-6h2p) (Moderate)<br/>[CVE-2021-28957](https://github.com/advisories/GHSA-jq4v-f5q6-mjqq) (Moderate)|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
